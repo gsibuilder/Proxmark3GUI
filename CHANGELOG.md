@@ -2,6 +2,9 @@
 
 [中文](doc/CHANGELOG/CHANGELOG_zh_CN.md)  
 
+### V0.2.9
++ Add support for Iceman/RRG repo v4.23346 (Frosty Lemon)
+
 ### V0.2.8
 + Add support for Iceman/RRG repo v4.16717  
 + Fix some bugs  
